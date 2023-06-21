@@ -1,4 +1,3 @@
-
 #  Number of Buildings Lost
 Address   | 581FC4
 ----------|-------------

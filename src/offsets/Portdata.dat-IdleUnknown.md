@@ -1,4 +1,3 @@
-
 #  Portdata.dat - Idle Unknown
 Address   | 656038
 ----------|-------------

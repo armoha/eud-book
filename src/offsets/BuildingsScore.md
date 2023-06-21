@@ -1,4 +1,3 @@
-
 #  Buildings Score
 Address   | 582024
 ----------|-------------

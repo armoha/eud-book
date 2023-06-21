@@ -1,4 +1,3 @@
-
 #  Flingy.dat - Turn Radius
 Address   | 6C9E20
 ----------|-------------

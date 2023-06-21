@@ -1,4 +1,3 @@
-
 #  Images.dat - Use Full Iscript
 Address   | 66D4D8
 ----------|-------------

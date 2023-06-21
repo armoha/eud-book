@@ -1,4 +1,3 @@
-
 #  Creep Overlay Buffer
 Address   | 6D0E80
 ----------|-------------

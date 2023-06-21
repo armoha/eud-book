@@ -1,4 +1,3 @@
-
 #  Upgrades.dat - Brood War Flag
 Address   | 655B3C
 ----------|-------------

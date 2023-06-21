@@ -1,4 +1,3 @@
-
 #  Saved Screen Positions
 Address   | 57F270
 ----------|-------------

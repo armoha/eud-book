@@ -1,4 +1,3 @@
-
 #  Screen Tile Position
 Address   | 57F1D0
 ----------|-------------

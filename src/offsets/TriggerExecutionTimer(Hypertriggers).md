@@ -1,4 +1,3 @@
-
 #  Trigger Execution Timer (Hyper triggers)
 Address   | 6509A0
 ----------|-------------

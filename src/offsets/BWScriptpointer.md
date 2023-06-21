@@ -1,4 +1,3 @@
-
 #  BWScript pointer
 Address   | 68C108
 ----------|-------------

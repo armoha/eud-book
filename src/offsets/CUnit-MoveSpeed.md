@@ -1,4 +1,3 @@
-
 #  CUnit - Move Speed
 Address   | 59CCE4
 ----------|-------------

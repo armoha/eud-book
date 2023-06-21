@@ -1,4 +1,3 @@
-
 #  Last Time for Drop Window
 Address   | 59CC78
 ----------|-------------

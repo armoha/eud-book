@@ -1,4 +1,3 @@
-
 #  Images.dat - Landing Dust Overlay
 Address   | 666778
 ----------|-------------

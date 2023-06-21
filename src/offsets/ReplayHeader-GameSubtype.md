@@ -1,4 +1,3 @@
-
 #  Replay Header - Game Subtype
 Address   | 6D0F6E
 ----------|-------------

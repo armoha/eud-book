@@ -1,4 +1,3 @@
-
 #  CUnit - Flingy Movement Type
 Address   | 59CCCF
 ----------|-------------

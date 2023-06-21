@@ -1,4 +1,3 @@
-
 #  Switch Table
 Address   | 58DC40
 ----------|-------------

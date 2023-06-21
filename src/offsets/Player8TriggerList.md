@@ -1,4 +1,3 @@
-
 #  Player 8 Trigger List
 Address   | 51A2D4
 ----------|-------------

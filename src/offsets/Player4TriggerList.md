@@ -1,4 +1,3 @@
-
 #  Player 4 Trigger List
 Address   | 51A2A4
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Establishing shot pointers
 Address   | 4FFF60
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Local Storm ID
 Address   | 51268C
 ----------|-------------

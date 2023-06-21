@@ -1,4 +1,3 @@
-
 #  Player Selection Circle Colors
 Address   | 581D6A
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  SC Upgrades Researched (0-45)
 Address   | 58D2B0
 ----------|-------------

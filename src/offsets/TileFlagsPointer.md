@@ -1,4 +1,3 @@
-
 #  Tile Flags Pointer
 Address   | 6D1260
 ----------|-------------

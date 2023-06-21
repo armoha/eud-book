@@ -1,4 +1,3 @@
-
 #  Upgrades.dat - Gas Cost Factor
 Address   | 6557C0
 ----------|-------------

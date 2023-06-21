@@ -1,4 +1,3 @@
-
 #  Message Player Filter
 Address   | 57F1DA
 ----------|-------------

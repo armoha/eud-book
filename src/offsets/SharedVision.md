@@ -1,4 +1,3 @@
-
 #  Shared Vision
 Address   | 57F1EC
 ----------|-------------

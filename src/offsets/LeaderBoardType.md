@@ -1,4 +1,3 @@
-
 #  Leader Board Type
 Address   | 58D70C
 ----------|-------------

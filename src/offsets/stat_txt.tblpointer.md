@@ -1,4 +1,3 @@
-
 #  stat_txt.tbl pointer
 Address   | 6D1238
 ----------|-------------

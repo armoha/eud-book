@@ -1,4 +1,3 @@
-
 #  Replay Header - Player Force Data
 Address   | 6D11A1
 ----------|-------------

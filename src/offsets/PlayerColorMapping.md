@@ -1,4 +1,3 @@
-
 #  Player Color Mapping
 Address   | 57F21C
 ----------|-------------

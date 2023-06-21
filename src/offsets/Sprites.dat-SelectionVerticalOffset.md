@@ -1,4 +1,3 @@
-
 #  Sprites.dat - Selection Vertical Offset
 Address   | 665FD8
 ----------|-------------

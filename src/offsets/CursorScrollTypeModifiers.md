@@ -1,4 +1,3 @@
-
 #  Cursor Scroll Type Modifiers
 Address   | 512754
 ----------|-------------

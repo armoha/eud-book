@@ -1,4 +1,3 @@
-
 #  Trigger Action Function Array
 Address   | 512800
 ----------|-------------

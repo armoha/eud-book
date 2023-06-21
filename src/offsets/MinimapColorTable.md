@@ -1,4 +1,3 @@
-
 #  Minimap Color Table
 Address   | 581DD6
 ----------|-------------

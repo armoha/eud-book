@@ -1,4 +1,3 @@
-
 #  CUnit - Next Target Waypoint
 Address   | 59CCC4
 ----------|-------------

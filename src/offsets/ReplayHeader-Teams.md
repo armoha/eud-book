@@ -1,4 +1,3 @@
-
 #  Replay Header - Teams
 Address   | 6D0FC1
 ----------|-------------

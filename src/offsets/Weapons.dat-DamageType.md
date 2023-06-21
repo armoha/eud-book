@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Damage Type
 Address   | 657258
 ----------|-------------

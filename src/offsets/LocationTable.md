@@ -1,4 +1,3 @@
-
 #  Location Table
 Address   | 58DC60
 ----------|-------------

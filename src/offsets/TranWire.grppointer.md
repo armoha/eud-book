@@ -1,4 +1,3 @@
-
 #  TranWire.grp pointer
 Address   | 68C1F4
 ----------|-------------

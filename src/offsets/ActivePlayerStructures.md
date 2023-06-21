@@ -1,4 +1,3 @@
-
 #  Active Player Structures
 Address   | 57EEE0
 ----------|-------------

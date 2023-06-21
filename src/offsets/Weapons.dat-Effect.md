@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Effect
 Address   | 6566F8
 ----------|-------------

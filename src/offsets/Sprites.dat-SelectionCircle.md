@@ -1,4 +1,3 @@
-
 #  Sprites.dat - Selection Circle
 Address   | 665AC0
 ----------|-------------

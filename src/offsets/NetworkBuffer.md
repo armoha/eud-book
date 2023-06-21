@@ -1,4 +1,3 @@
-
 #  Network Buffer
 Address   | 654880
 ----------|-------------

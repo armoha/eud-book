@@ -1,4 +1,3 @@
-
 #  SC Switch Table (Unused?)
 Address   | 58D6FC
 ----------|-------------

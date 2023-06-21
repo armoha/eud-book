@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Graphics
 Address   | 656CA8
 ----------|-------------

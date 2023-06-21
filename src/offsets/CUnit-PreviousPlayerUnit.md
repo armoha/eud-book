@@ -1,4 +1,3 @@
-
 #  CUnit - Previous Player Unit
 Address   | 59CD10
 ----------|-------------

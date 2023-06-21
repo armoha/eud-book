@@ -1,4 +1,3 @@
-
 #  Flingy.dat - Top Speed
 Address   | 6C9EF8
 ----------|-------------

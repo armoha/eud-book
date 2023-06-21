@@ -1,4 +1,3 @@
-
 #  Mouse and Keyboard Scroll Speed
 Address   | 513B68
 ----------|-------------

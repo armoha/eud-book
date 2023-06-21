@@ -1,4 +1,3 @@
-
 #  Replay Header - Subtype Label
 Address   | 6D0FB7
 ----------|-------------

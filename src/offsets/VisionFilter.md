@@ -1,4 +1,3 @@
-
 #  Vision Filter
 Address   | 57F0B0
 ----------|-------------

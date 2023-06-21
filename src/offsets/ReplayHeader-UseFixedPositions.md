@@ -1,4 +1,3 @@
-
 #  Replay Header - Use Fixed Positions
 Address   | 6D0FBE
 ----------|-------------

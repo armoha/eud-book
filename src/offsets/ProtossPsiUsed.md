@@ -1,4 +1,3 @@
-
 #  Protoss Psi Used
 Address   | 582294
 ----------|-------------

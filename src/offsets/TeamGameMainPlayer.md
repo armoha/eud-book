@@ -1,4 +1,3 @@
-
 #  Team Game Main Player
 Address   | 57F1CC
 ----------|-------------

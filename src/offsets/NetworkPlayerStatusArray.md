@@ -1,4 +1,3 @@
-
 #  Network Player Status Array
 Address   | 57F0B8
 ----------|-------------

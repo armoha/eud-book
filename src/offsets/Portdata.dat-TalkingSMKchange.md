@@ -1,4 +1,3 @@
-
 #  Portdata.dat - Talking SMK change
 Address   | 6560A8
 ----------|-------------

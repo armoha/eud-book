@@ -1,4 +1,3 @@
-
 #  Score Kill Total
 Address   | 581F04
 ----------|-------------

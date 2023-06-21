@@ -1,4 +1,3 @@
-
 #  Replay Header - Game flags
 Address   | 6D0F60
 ----------|-------------

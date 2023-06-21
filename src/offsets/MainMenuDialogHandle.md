@@ -1,4 +1,3 @@
-
 #  Main Menu Dialog Handle
 Address   | 57F0DC
 ----------|-------------

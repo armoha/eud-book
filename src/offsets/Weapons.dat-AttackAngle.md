@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Attack Angle
 Address   | 656990
 ----------|-------------

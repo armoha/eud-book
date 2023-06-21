@@ -1,4 +1,3 @@
-
 #  CUnit - Halt X Coordinate
 Address   | 59CCD4
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Images.dat - Sheilds Overlay
 Address   | 66C538
 ----------|-------------

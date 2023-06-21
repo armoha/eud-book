@@ -1,4 +1,3 @@
-
 #  Sfxdata.dat - minVolume
 Address   | 68C448
 ----------|-------------

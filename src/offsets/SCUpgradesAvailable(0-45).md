@@ -1,4 +1,3 @@
-
 #  SC Upgrades Available (0-45)
 Address   | 58D088
 ----------|-------------

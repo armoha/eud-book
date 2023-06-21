@@ -1,4 +1,3 @@
-
 #  Player 2 Selection Group
 Address   | 628518
 ----------|-------------

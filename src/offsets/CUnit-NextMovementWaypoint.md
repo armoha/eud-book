@@ -1,4 +1,3 @@
-
 #  CUnit - Next Movement Waypoint
 Address   | 59CCC0
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Player 5 Trigger List
 Address   | 51A2B0
 ----------|-------------

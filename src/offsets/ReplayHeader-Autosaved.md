@@ -1,4 +1,3 @@
-
 #  Replay Header - Autosaved
 Address   | 6D0F76
 ----------|-------------

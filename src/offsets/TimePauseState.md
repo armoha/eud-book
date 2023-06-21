@@ -1,4 +1,3 @@
-
 #  Time Pause State
 Address   | 58F04C
 ----------|-------------

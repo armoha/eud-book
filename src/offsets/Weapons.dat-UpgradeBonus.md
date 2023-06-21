@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Upgrade Bonus
 Address   | 657678
 ----------|-------------

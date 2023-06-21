@@ -1,4 +1,3 @@
-
 #  CUnit - Movement State
 Address   | 59CD3F
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Player 4 Selection Group
 Address   | 628578
 ----------|-------------

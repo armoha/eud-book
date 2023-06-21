@@ -1,4 +1,3 @@
-
 #  Replay Header - Resource Type
 Address   | 6D0FBA
 ----------|-------------

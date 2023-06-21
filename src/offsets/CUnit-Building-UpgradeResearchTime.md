@@ -1,4 +1,3 @@
-
 #  CUnit - Building - Upgrade/Research Time
 Address   | 59CD6E
 ----------|-------------

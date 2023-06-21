@@ -1,4 +1,3 @@
-
 #  Orders.dat - Can Be Obstructed?
 Address   | 6654C0
 ----------|-------------

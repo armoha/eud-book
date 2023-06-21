@@ -1,4 +1,3 @@
-
 #  CUnit - Beacon - Flag Spawn Frame
 Address   | 59CD70
 ----------|-------------

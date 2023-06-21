@@ -1,4 +1,3 @@
-
 #  CUnit - Pylon - Power Overlay Sprite
 Address   | 59CD78
 ----------|-------------

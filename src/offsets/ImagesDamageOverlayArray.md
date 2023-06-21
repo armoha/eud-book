@@ -1,4 +1,3 @@
-
 #  Images Damage Overlay Array
 Address   | 520244
 ----------|-------------

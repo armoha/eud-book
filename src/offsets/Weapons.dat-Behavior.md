@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Behavior
 Address   | 656670
 ----------|-------------

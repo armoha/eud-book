@@ -1,4 +1,3 @@
-
 #  Replay Header - Player Bytes
 Address   | 6D0F3C
 ----------|-------------

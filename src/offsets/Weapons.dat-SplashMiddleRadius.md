@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Splash Middle Radius
 Address   | 6570C8
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Sfxdata.dat - Sound file
 Address   | 68DAA0
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Replay Header - Tileset
 Address   | 6D0F74
 ----------|-------------

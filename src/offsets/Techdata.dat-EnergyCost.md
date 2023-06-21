@@ -1,4 +1,3 @@
-
 #  Techdata.dat - Energy Cost
 Address   | 656380
 ----------|-------------

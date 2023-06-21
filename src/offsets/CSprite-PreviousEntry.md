@@ -1,4 +1,3 @@
-
 #  CSprite - Previous Entry
 Address   | 629D98
 ----------|-------------

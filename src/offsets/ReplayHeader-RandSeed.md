@@ -1,4 +1,3 @@
-
 #  Replay Header - Rand Seed
 Address   | 6D0F38
 ----------|-------------

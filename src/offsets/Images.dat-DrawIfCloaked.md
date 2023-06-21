@@ -1,4 +1,3 @@
-
 #  Images.dat - Draw If Cloaked
 Address   | 667718
 ----------|-------------

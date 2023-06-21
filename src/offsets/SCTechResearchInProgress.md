@@ -1,4 +1,3 @@
-
 #  SC Tech Research In Progress
 Address   | 58D064
 ----------|-------------

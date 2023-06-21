@@ -1,4 +1,3 @@
-
 #  CUnit - Beacon - Unknown +04
 Address   | 59CD6C
 ----------|-------------

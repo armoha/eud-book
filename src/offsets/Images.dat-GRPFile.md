@@ -1,4 +1,3 @@
-
 #  Images.dat - GRP File
 Address   | 668AA0
 ----------|-------------

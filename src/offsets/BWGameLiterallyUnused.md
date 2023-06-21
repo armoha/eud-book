@@ -1,4 +1,3 @@
-
 #  BWGame "Literally Unused"
 Address   | 58F44A
 ----------|-------------

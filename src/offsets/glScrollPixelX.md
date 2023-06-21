@@ -1,4 +1,3 @@
-
 #  glScrollPixelX
 Address   | 62848C
 ----------|-------------

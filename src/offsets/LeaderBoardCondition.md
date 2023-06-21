@@ -1,4 +1,3 @@
-
 #  Leader Board Condition
 Address   | 58D70D
 ----------|-------------

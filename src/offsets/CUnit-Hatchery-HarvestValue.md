@@ -1,4 +1,3 @@
-
 #  CUnit - Hatchery? - Harvest Value
 Address   | 59CD78
 ----------|-------------

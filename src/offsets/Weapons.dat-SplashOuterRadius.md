@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Splash Outer Radius
 Address   | 657780
 ----------|-------------

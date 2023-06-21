@@ -1,4 +1,3 @@
-
 #  Battle.snp Join Channel
 Address   | 1904613C
 ----------|-------------

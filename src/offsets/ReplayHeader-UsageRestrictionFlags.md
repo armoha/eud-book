@@ -1,4 +1,3 @@
-
 #  Replay Header - Usage Restriction Flags
 Address   | 6D0FBF
 ----------|-------------

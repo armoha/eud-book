@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Damage Factor
 Address   | 6564E0
 ----------|-------------

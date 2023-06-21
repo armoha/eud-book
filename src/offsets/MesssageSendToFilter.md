@@ -1,4 +1,3 @@
-
 #  Messsage Send To Filter
 Address   | 57F1D8
 ----------|-------------

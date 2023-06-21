@@ -1,4 +1,3 @@
-
 #  Pointer to map "STR " section
 Address   | 5993D4
 ----------|-------------

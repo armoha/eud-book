@@ -1,4 +1,3 @@
-
 #  Images.dat - Clickable
 Address   | 66C150
 ----------|-------------

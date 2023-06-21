@@ -1,4 +1,3 @@
-
 #  Upgrades.dat - Gas Cost Base
 Address   | 655840
 ----------|-------------

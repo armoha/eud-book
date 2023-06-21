@@ -1,4 +1,3 @@
-
 #  Replay Header - Victory Condition
 Address   | 6D0FB9
 ----------|-------------

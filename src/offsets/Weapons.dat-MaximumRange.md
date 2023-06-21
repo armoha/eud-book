@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Maximum Range
 Address   | 657470
 ----------|-------------

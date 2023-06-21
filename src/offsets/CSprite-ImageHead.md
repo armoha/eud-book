@@ -1,4 +1,3 @@
-
 #  CSprite - Image Head
 Address   | 629DB4
 ----------|-------------

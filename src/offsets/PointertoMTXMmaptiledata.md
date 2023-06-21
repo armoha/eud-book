@@ -1,4 +1,3 @@
-
 #  Pointer to "MTXM" map tile data
 Address   | 5993C4
 ----------|-------------

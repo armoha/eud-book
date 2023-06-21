@@ -1,4 +1,3 @@
-
 #  Player 7 Trigger List
 Address   | 51A2C8
 ----------|-------------

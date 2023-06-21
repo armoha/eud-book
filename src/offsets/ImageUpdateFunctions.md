@@ -1,4 +1,3 @@
-
 #  Image Update Functions
 Address   | 512510
 ----------|-------------

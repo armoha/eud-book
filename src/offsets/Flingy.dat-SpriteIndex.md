@@ -1,4 +1,3 @@
-
 #  Flingy.dat - Sprite Index
 Address   | 6CA318
 ----------|-------------

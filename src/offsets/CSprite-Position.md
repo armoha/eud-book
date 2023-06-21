@@ -1,4 +1,3 @@
-
 #  CSprite - Position
 Address   | 629DAC
 ----------|-------------

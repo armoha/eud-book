@@ -1,4 +1,3 @@
-
 #  Console Index
 Address   | 57F1E2
 ----------|-------------

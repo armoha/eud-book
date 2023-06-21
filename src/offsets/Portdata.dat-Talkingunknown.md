@@ -1,4 +1,3 @@
-
 #  Portdata.dat - Talking unknown
 Address   | 656118
 ----------|-------------

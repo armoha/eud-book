@@ -1,4 +1,3 @@
-
 #  Last Image Pointer
 Address   | 57EB70
 ----------|-------------

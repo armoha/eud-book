@@ -1,4 +1,3 @@
-
 #  Portdata.dat - Idle SMK Change
 Address   | 655E10
 ----------|-------------

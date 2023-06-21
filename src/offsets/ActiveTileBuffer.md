@@ -1,4 +1,3 @@
-
 #  Active Tile Buffer
 Address   | 6D0E84
 ----------|-------------

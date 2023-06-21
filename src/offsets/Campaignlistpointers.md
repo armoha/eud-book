@@ -1,4 +1,3 @@
-
 #  Campaign list pointers
 Address   | 5122A0
 ----------|-------------

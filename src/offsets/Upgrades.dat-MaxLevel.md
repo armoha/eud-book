@@ -1,4 +1,3 @@
-
 #  Upgrades.dat - Max Level
 Address   | 655700
 ----------|-------------

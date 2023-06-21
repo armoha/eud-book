@@ -1,4 +1,3 @@
-
 #  Images.dat - Graphics Turns
 Address   | 66E860
 ----------|-------------

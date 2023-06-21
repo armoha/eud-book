@@ -1,4 +1,3 @@
-
 #  BW Technologies Researched (24-43)
 Address   | 58F140
 ----------|-------------

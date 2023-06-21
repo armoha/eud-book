@@ -1,4 +1,3 @@
-
 #  Cursor Filename Array
 Address   | 512708
 ----------|-------------

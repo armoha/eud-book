@@ -1,4 +1,3 @@
-
 #  Emp Shockwave Missiles (???)
 Address   | 59CDE0
 ----------|-------------

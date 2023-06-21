@@ -1,4 +1,3 @@
-
 #  CSprite - Unknown Flags 12
 Address   | 629DAA
 ----------|-------------

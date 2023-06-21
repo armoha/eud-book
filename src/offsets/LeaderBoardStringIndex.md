@@ -1,4 +1,3 @@
-
 #  Leader Board String Index
 Address   | 58D714
 ----------|-------------

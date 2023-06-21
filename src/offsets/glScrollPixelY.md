@@ -1,4 +1,3 @@
-
 #  glScrollPixelY
 Address   | 6284A8
 ----------|-------------

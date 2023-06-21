@@ -1,4 +1,3 @@
-
 #  Replay Header - Seed (Unused)
 Address   | 6D0F70
 ----------|-------------

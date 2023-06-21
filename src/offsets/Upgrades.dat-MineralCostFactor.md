@@ -1,4 +1,3 @@
-
 #  Upgrades.dat - Mineral Cost Factor
 Address   | 6559C0
 ----------|-------------

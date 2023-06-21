@@ -1,4 +1,3 @@
-
 #  Flingy.dat - Halt Distance
 Address   | 6C9930
 ----------|-------------

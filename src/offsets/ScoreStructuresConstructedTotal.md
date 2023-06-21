@@ -1,4 +1,3 @@
-
 #  Score Structures Constructed Total
 Address   | 581F34
 ----------|-------------

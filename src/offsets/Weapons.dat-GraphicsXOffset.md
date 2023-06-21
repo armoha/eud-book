@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Graphics X Offset
 Address   | 657910
 ----------|-------------

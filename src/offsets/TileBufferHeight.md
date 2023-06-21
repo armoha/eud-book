@@ -1,4 +1,3 @@
-
 #  Tile Buffer Height
 Address   | 6D0C6C
 ----------|-------------

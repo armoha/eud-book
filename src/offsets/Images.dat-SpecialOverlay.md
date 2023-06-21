@@ -1,4 +1,3 @@
-
 #  Images.dat - Special Overlay
 Address   | 667B00
 ----------|-------------

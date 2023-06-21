@@ -1,4 +1,3 @@
-
 #  Replay Header - Extra
 Address   | 6D0FD0
 ----------|-------------

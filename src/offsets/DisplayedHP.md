@@ -1,4 +1,3 @@
-
 #  Displayed HP
 Address   | 6CA94D
 ----------|-------------

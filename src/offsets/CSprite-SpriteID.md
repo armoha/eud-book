@@ -1,4 +1,3 @@
-
 #  CSprite - Sprite ID
 Address   | 629DA0
 ----------|-------------

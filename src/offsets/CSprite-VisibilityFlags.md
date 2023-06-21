@@ -1,4 +1,3 @@
-
 #  CSprite - Visibility Flags
 Address   | 629DA4
 ----------|-------------

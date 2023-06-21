@@ -1,4 +1,3 @@
-
 #  Mouse Button State
 Address   | 6CDDC0
 ----------|-------------

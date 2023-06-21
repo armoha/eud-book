@@ -1,4 +1,3 @@
-
 #  Mission Briefing Action Function Array
 Address   | 519E50
 ----------|-------------

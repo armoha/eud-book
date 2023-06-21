@@ -1,4 +1,3 @@
-
 #  Number of Buildings Razed
 Address   | 581FF4
 ----------|-------------

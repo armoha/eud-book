@@ -1,4 +1,3 @@
-
 #  Replay Header - Starting Units
 Address   | 6D0FBD
 ----------|-------------

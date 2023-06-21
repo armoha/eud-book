@@ -1,4 +1,3 @@
-
 #  Current Player Selection
 Address   | 6284B8
 ----------|-------------

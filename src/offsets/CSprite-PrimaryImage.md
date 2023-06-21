@@ -1,4 +1,3 @@
-
 #  CSprite - Primary Image
 Address   | 629DB0
 ----------|-------------

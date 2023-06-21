@@ -1,4 +1,3 @@
-
 #  CUnit - Resource - Next Gatherer
 Address   | 59CD7C
 ----------|-------------

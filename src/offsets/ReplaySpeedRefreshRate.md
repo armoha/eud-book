@@ -1,4 +1,3 @@
-
 #  Replay Speed Refresh Rate
 Address   | 5124F4
 ----------|-------------

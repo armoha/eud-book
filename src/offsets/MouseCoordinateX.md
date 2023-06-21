@@ -1,4 +1,3 @@
-
 #  Mouse Coordinate X
 Address   | 6CDDC4
 ----------|-------------

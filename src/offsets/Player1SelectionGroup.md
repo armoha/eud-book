@@ -1,4 +1,3 @@
-
 #  Player 1 Selection Group
 Address   | 6284E8
 ----------|-------------

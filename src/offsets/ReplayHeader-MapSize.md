@@ -1,4 +1,3 @@
-
 #  Replay Header - MapSize
 Address   | 6D0F64
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Images.dat - Damage Overlay
 Address   | 66A210
 ----------|-------------

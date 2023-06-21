@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Upgrade ID
 Address   | 6571D0
 ----------|-------------

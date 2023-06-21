@@ -1,4 +1,3 @@
-
 #  Replay Header - Resources Value
 Address   | 6D0FC8
 ----------|-------------

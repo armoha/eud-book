@@ -1,4 +1,3 @@
-
 #  Number of Factories Constructed
 Address   | 582084
 ----------|-------------

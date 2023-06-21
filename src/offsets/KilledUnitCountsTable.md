@@ -1,4 +1,3 @@
-
 #  Killed Unit Counts Table
 Address   | 5878A4
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Trigger Condition Function Array
 Address   | 515A98
 ----------|-------------

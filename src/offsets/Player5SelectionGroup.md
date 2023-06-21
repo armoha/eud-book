@@ -1,4 +1,3 @@
-
 #  Player 5 Selection Group
 Address   | 6285A8
 ----------|-------------

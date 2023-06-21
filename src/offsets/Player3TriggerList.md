@@ -1,4 +1,3 @@
-
 #  Player 3 Trigger List
 Address   | 51A298
 ----------|-------------

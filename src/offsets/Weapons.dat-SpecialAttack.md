@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Special Attack
 Address   | 6573E8
 ----------|-------------

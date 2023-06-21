@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Graphics Y Offset
 Address   | 656C20
 ----------|-------------

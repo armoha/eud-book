@@ -1,4 +1,3 @@
-
 #  Orders.dat - Obscured Order
 Address   | 665400
 ----------|-------------

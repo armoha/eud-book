@@ -1,4 +1,3 @@
-
 #  Replay Header - Game State
 Address   | 6D0F6B
 ----------|-------------

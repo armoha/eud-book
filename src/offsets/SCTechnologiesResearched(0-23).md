@@ -1,4 +1,3 @@
-
 #  SC Technologies Researched (0-23)
 Address   | 58CF44
 ----------|-------------

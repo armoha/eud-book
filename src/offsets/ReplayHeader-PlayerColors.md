@@ -1,4 +1,3 @@
-
 #  Replay Header - Player Colors
 Address   | 6D1181
 ----------|-------------

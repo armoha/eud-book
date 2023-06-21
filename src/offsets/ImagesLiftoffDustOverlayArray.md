@@ -1,4 +1,3 @@
-
 #  Images Liftoff Dust Overlay Array
 Address   | 523118
 ----------|-------------

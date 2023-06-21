@@ -1,4 +1,3 @@
-
 #  Orders.dat - Use Weapon Targetting
 Address   | 664B00
 ----------|-------------

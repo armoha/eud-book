@@ -1,4 +1,3 @@
-
 #  Tileset Color Cycle Pointers
 Address   | 5127DC
 ----------|-------------

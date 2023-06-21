@@ -1,4 +1,3 @@
-
 #  First Image Pointer
 Address   | 57EB68
 ----------|-------------

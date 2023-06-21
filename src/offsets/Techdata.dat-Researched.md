@@ -1,4 +1,3 @@
-
 #  Techdata.dat - Researched
 Address   | 656350
 ----------|-------------

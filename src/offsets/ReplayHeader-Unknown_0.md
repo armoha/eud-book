@@ -1,4 +1,3 @@
-
 #  Replay Header - Unknown_0
 Address   | 6D0F44
 ----------|-------------

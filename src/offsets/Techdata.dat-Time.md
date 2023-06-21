@@ -1,4 +1,3 @@
-
 #  Techdata.dat - Time
 Address   | 6563D8
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Target Flags
 Address   | 657998
 ----------|-------------

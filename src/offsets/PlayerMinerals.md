@@ -1,4 +1,3 @@
-
 #  Player Minerals
 Address   | 57F0F0
 ----------|-------------

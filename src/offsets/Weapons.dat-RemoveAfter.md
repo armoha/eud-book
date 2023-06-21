@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Remove After
 Address   | 657040
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Replay Header - Game Name
 Address   | 6D0F78
 ----------|-------------

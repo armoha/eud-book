@@ -1,4 +1,3 @@
-
 #  Player's Force
 Address   | 58D5B0
 ----------|-------------

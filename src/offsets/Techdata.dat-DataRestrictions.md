@@ -1,4 +1,3 @@
-
 #  Techdata.dat - Data Restrictions
 Address   | 6562F8
 ----------|-------------

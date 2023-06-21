@@ -1,4 +1,3 @@
-
 #  Player Total Minerals Harvested
 Address   | 57F180
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Replay Header - Available Slots
 Address   | 6D0F69
 ----------|-------------

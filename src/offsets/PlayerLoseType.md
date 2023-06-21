@@ -1,4 +1,3 @@
-
 #  Player Lose Type
 Address   | 581D61
 ----------|-------------

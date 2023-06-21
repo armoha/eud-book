@@ -1,4 +1,3 @@
-
 #  Sprites.dat - Image Index
 Address   | 666160
 ----------|-------------

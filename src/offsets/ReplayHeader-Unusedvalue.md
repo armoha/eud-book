@@ -1,4 +1,3 @@
-
 #  Replay Header - Unused value
 Address   | 6D0FCC
 ----------|-------------

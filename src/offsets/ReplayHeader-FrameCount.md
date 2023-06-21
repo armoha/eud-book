@@ -1,4 +1,3 @@
-
 #  Replay Header - Frame Count
 Address   | 6D0F31
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  CSprite - Index
 Address   | 629DA8
 ----------|-------------

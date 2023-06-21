@@ -1,4 +1,3 @@
-
 #  Saved Elapsed Seconds
 Address   | 57F240
 ----------|-------------

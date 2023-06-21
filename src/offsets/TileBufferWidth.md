@@ -1,4 +1,3 @@
-
 #  Tile Buffer Width
 Address   | 6D0F08
 ----------|-------------

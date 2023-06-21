@@ -1,4 +1,3 @@
-
 #  Replay Header - Unknown
 Address   | 6D0FB2
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Player Name
 Address   | 57EE9C
 ----------|-------------

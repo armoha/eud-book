@@ -1,4 +1,3 @@
-
 #  Vanilla Location Table
 Address   | 58D740
 ----------|-------------

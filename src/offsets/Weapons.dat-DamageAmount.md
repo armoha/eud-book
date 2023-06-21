@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Damage Amount
 Address   | 656EB0
 ----------|-------------

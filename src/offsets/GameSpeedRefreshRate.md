@@ -1,4 +1,3 @@
-
 #  Game Speed Refresh Rate
 Address   | 5124D8
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  BW Upgrades Available (46-60)
 Address   | 58F278
 ----------|-------------

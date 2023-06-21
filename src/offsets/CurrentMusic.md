@@ -1,4 +1,3 @@
-
 #  Current Music
 Address   | 57F1DE
 ----------|-------------

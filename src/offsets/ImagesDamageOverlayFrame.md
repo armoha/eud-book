@@ -1,4 +1,3 @@
-
 #  Images Damage Overlay Frame
 Address   | 5240D0
 ----------|-------------

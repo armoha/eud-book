@@ -1,4 +1,3 @@
-
 #  AIScript pointer
 Address   | 68C104
 ----------|-------------

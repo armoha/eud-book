@@ -1,4 +1,3 @@
-
 #  CSprite - Image Tail
 Address   | 629DB8
 ----------|-------------

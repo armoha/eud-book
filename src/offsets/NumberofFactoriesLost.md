@@ -1,4 +1,3 @@
-
 #  Number of Factories Lost
 Address   | 5820E4
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Number of Buildings Owned
 Address   | 581F94
 ----------|-------------

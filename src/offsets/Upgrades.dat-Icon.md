@@ -1,4 +1,3 @@
-
 #  Upgrades.dat - Icon
 Address   | 655AC0
 ----------|-------------

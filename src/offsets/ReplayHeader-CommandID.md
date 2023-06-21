@@ -1,4 +1,3 @@
-
 #  Replay Header - Command ID
 Address   | 6D0F37
 ----------|-------------

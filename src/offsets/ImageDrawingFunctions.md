@@ -1,4 +1,3 @@
-
 #  Image Drawing Functions
 Address   | 5125A0
 ----------|-------------

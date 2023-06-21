@@ -1,4 +1,3 @@
-
 #  SC Upgrade in Progress Lvl 3 (???)
 Address   | 59D568
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Upgrades.dat - Mineral Cost Base
 Address   | 655740
 ----------|-------------

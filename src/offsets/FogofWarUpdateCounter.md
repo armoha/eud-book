@@ -1,4 +1,3 @@
-
 #  Fog of War Update Counter
 Address   | 51CE98
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Player 6 Trigger List
 Address   | 51A2BC
 ----------|-------------

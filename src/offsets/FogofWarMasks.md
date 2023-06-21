@@ -1,4 +1,3 @@
-
 #  Fog of War Masks
 Address   | 657AA0
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Game Brightness
 Address   | 657A9C
 ----------|-------------

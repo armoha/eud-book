@@ -1,4 +1,3 @@
-
 #  CSprite - Draw Flags
 Address   | 629DA6
 ----------|-------------

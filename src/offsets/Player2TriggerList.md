@@ -1,4 +1,3 @@
-
 #  Player 2 Trigger List
 Address   | 51A28C
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Starting Player Local ID
 Address   | 57F1B0
 ----------|-------------

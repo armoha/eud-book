@@ -1,4 +1,3 @@
-
 #  Sfxdata.dat - Flags
 Address   | 68C8C0
 ----------|-------------

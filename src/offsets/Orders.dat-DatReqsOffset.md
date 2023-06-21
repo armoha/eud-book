@@ -1,4 +1,3 @@
-
 #  Orders.dat - Dat Reqs Offset
 Address   | 665580
 ----------|-------------

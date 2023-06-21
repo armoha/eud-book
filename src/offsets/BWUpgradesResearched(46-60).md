@@ -1,4 +1,3 @@
-
 #  BW Upgrades Researched (46-60)
 Address   | 58F32C
 ----------|-------------

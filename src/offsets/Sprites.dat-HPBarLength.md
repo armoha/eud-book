@@ -1,4 +1,3 @@
-
 #  Sprites.dat - HP Bar Length
 Address   | 665E50
 ----------|-------------

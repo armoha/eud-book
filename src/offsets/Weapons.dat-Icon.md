@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Icon
 Address   | 656780
 ----------|-------------

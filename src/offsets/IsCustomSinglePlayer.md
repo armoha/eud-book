@@ -1,4 +1,3 @@
-
 #  Is Custom Single Player
 Address   | 57F1E3
 ----------|-------------

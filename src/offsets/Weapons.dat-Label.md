@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Label
 Address   | 6572E0
 ----------|-------------

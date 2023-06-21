@@ -1,4 +1,3 @@
-
 #  Sprites.dat - Visible
 Address   | 665C48
 ----------|-------------

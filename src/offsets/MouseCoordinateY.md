@@ -1,4 +1,3 @@
-
 #  Mouse Coordinate Y
 Address   | 6CDDC8
 ----------|-------------

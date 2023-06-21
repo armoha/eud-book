@@ -1,4 +1,3 @@
-
 #  Sfxdata.dat - Priority
 Address   | 68D628
 ----------|-------------

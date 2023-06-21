@@ -1,4 +1,3 @@
-
 #  Images Shield Overlay Array
 Address   | 52E5C8
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Death Table Start
 Address   | 58A364
 ----------|-------------

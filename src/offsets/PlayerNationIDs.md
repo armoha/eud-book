@@ -1,4 +1,3 @@
-
 #  Player Nation IDs
 Address   | 57EEC0
 ----------|-------------

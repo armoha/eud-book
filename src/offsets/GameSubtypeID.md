@@ -1,4 +1,3 @@
-
 #  Game Subtype ID
 Address   | 59BA5C
 ----------|-------------

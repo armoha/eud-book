@@ -1,4 +1,3 @@
-
 #  CSprite - Elevation Level
 Address   | 629DA5
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Leaderboard Has Computer Players
 Address   | 58D708
 ----------|-------------

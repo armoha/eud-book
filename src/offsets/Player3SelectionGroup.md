@@ -1,4 +1,3 @@
-
 #  Player 3 Selection Group
 Address   | 628548
 ----------|-------------

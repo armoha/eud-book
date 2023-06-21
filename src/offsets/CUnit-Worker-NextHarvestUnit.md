@@ -1,4 +1,3 @@
-
 #  CUnit - Worker - Next Harvest Unit
 Address   | 59CD80
 ----------|-------------

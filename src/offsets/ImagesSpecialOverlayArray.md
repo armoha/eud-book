@@ -1,4 +1,3 @@
-
 #  Images Special Overlay Array
 Address   | 5211E0
 ----------|-------------

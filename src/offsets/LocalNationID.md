@@ -1,4 +1,3 @@
-
 #  Local Nation ID
 Address   | 512684
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Tile Function Pointers
 Address   | 6D0C70
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Player 6 Selection Group
 Address   | 6285D8
 ----------|-------------

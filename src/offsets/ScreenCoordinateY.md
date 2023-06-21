@@ -1,4 +1,3 @@
-
 #  Screen Coordinate Y
 Address   | 628470
 ----------|-------------

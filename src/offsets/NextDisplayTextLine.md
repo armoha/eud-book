@@ -1,4 +1,3 @@
-
 #  Next Display Text Line
 Address   | 640B58
 ----------|-------------

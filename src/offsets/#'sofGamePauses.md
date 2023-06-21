@@ -1,4 +1,3 @@
-
 #  #'s of Game Pauses
 Address   | 58D718
 ----------|-------------

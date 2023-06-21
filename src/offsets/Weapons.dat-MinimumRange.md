@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Minimum Range
 Address   | 656A18
 ----------|-------------

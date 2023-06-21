@@ -1,4 +1,3 @@
-
 #  CUnit - Worker - Resource Carry Count
 Address   | 59CD77
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Last Whisper Player
 Address   | 57F094
 ----------|-------------

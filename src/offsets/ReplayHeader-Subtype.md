@@ -1,4 +1,3 @@
-
 #  Replay Header - Subtype
 Address   | 6D0FB3
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Replay Header - Player Entries
 Address   | 6D0FD1
 ----------|-------------

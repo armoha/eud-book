@@ -1,4 +1,3 @@
-
 #  Upgrades.dat - Dat Requirement Offset
 Address   | 6558C0
 ----------|-------------

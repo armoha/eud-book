@@ -1,4 +1,3 @@
-
 #  Replay Header - Game Type
 Address   | 6D0FB1
 ----------|-------------

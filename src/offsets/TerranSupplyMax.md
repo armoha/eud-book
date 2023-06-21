@@ -1,4 +1,3 @@
-
 #  Terran Supply Max
 Address   | 582234
 ----------|-------------

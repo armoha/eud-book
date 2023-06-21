@@ -1,4 +1,3 @@
-
 #  Default Message Filter
 Address   | 581D60
 ----------|-------------

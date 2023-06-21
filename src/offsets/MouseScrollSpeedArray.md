@@ -1,4 +1,3 @@
-
 #  Mouse Scroll Speed Array
 Address   | 513B68
 ----------|-------------

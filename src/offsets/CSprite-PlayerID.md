@@ -1,4 +1,3 @@
-
 #  CSprite - Player ID
 Address   | 629DA2
 ----------|-------------

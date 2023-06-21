@@ -1,4 +1,3 @@
-
 #  Leader Board Goal
 Address   | 58D710
 ----------|-------------

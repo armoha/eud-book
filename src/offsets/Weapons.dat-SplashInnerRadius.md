@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Splash Inner Radius
 Address   | 656888
 ----------|-------------

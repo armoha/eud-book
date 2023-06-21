@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Target Error Message
 Address   | 656568
 ----------|-------------

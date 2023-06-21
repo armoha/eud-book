@@ -1,4 +1,3 @@
-
 #  Mapdata.dat - Mission dir
 Address   | 59C080
 ----------|-------------

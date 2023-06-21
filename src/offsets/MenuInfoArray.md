@@ -1,4 +1,3 @@
-
 #  Menu Info Array
 Address   | 4FFAD0
 ----------|-------------

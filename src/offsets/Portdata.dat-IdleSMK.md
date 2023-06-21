@@ -1,4 +1,3 @@
-
 #  Portdata.dat - Idle SMK
 Address   | 655C58
 ----------|-------------

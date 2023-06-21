@@ -1,4 +1,3 @@
-
 #  Game Speed
 Address   | 6CDFD4
 ----------|-------------

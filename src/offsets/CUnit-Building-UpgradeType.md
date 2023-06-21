@@ -1,4 +1,3 @@
-
 #  CUnit - Building - Upgrade Type
 Address   | 59CD71
 ----------|-------------

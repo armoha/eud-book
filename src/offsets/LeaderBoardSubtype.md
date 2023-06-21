@@ -1,4 +1,3 @@
-
 #  Leader Board Subtype
 Address   | 58D70E
 ----------|-------------

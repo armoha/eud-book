@@ -1,4 +1,3 @@
-
 #  Replay Header - Allies Allowed
 Address   | 6D0FC0
 ----------|-------------

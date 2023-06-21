@@ -1,4 +1,3 @@
-
 #  Damage type/factor multipliers vs unit size
 Address   | 65678C
 ----------|-------------

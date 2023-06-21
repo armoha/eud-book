@@ -1,4 +1,3 @@
-
 #  Screen Coordinate X
 Address   | 628448
 ----------|-------------

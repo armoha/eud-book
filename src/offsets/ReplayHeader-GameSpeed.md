@@ -1,4 +1,3 @@
-
 #  Replay Header - Game Speed
 Address   | 6D0F6A
 ----------|-------------

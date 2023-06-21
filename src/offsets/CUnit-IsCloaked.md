@@ -1,4 +1,3 @@
-
 #  CUnit - Is Cloaked
 Address   | 59CD3E
 ----------|-------------

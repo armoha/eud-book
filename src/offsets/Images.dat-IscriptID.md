@@ -1,4 +1,3 @@
-
 #  Images.dat - Iscript ID
 Address   | 66EC48
 ----------|-------------

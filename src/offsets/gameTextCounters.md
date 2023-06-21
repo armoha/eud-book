@@ -1,4 +1,3 @@
-
 #  gameTextCounters
 Address   | 640B24
 ----------|-------------

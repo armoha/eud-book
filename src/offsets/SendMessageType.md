@@ -1,4 +1,3 @@
-
 #  Send Message Type
 Address   | 68C144
 ----------|-------------

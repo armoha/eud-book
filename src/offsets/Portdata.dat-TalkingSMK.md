@@ -1,4 +1,3 @@
-
 #  Portdata.dat - Talking SMK
 Address   | 655E80
 ----------|-------------

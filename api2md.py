@@ -14,6 +14,10 @@ for entry in data:
     length = int(entry["length"])  # dec
     scr = unescape(entry["scr"].strip())
     description = unescape(entry["description"].strip())
+    description = description.replace("\n\n", "\n")
+    description = description.replace("\n\n", "\n")
+    description = description.replace("\n\n", "\n")
+    description = description.replace("\n\n", "\n")
     name = unescape(entry["name"].strip())
     filename = name.replace(" ", "")
     filename = filename.replace('"', "")
@@ -23,9 +27,9 @@ for entry in data:
 
     footnote.write(f"[{address:08X}]: offsets/{filename}\n")
     summary.write(f"    - [{name}](offsets/{filename})\n")
-    with open(filename, "w") as f:
+    with open("src/offsets/" + filename, "w") as f:
         f.write(
-            f"""
+            f"""\
 #  {name}
 Address   | {address:X}
 ----------|-------------

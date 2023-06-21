@@ -1,4 +1,3 @@
-
 #  Player Slot Races
 Address   | 57F1C0
 ----------|-------------

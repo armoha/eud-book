@@ -1,4 +1,3 @@
-
 #  CUnit - Resource - Reource Belongs to AI
 Address   | 59CD81
 ----------|-------------

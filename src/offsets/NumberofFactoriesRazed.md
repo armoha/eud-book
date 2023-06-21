@@ -1,4 +1,3 @@
-
 #  Number of Factories Razed
 Address   | 582114
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  CUnit - Sprite
 Address   | 59CCB4
 ----------|-------------

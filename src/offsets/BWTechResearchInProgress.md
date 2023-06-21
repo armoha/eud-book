@@ -1,4 +1,3 @@
-
 #  BW Tech Research In Progress
 Address   | 58F230
 ----------|-------------

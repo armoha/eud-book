@@ -1,4 +1,3 @@
-
 #  Replay Header - Tournament Mode
 Address   | 6D0FC3
 ----------|-------------

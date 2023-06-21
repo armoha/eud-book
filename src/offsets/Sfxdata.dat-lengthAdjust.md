@@ -1,4 +1,3 @@
-
 #  Sfxdata.dat - lengthAdjust
 Address   | 68CD38
 ----------|-------------

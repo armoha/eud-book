@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Launch Spin
 Address   | 657888
 ----------|-------------

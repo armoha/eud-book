@@ -1,4 +1,3 @@
-
 #  Number of Buildings Constructed
 Address   | 581F64
 ----------|-------------

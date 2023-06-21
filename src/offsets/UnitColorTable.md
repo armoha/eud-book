@@ -1,4 +1,3 @@
-
 #  Unit Color Table
 Address   | 581D76
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Replay Header - Campaign ID
 Address   | 6D0F35
 ----------|-------------

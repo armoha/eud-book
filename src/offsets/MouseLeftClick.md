@@ -1,4 +1,3 @@
-
 #  Mouse Left Click
 Address   | 5968AC
 ----------|-------------

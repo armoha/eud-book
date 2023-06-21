@@ -1,4 +1,3 @@
-
 #  Replay Header- Computer Player Count
 Address   | 6D0F77
 ----------|-------------

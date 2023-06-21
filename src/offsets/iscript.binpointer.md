@@ -1,4 +1,3 @@
-
 #  iscript.bin pointer
 Address   | 6D1200
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Player Slot Types
 Address   | 57F1B4
 ----------|-------------

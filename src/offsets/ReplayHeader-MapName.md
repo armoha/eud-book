@@ -1,4 +1,3 @@
-
 #  Replay Header - Map Name
 Address   | 6D0F91
 ----------|-------------

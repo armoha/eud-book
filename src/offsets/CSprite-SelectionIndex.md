@@ -1,4 +1,3 @@
-
 #  CSprite - Selection Index
 Address   | 629DA3
 ----------|-------------

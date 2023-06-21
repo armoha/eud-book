@@ -1,4 +1,3 @@
-
 #  Pylon Auras are Visible
 Address   | 63FF48
 ----------|-------------

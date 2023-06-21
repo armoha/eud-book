@@ -1,4 +1,3 @@
-
 #  Replay Header - Victory Condition Value
 Address   | 6D0FC4
 ----------|-------------

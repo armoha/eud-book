@@ -1,4 +1,3 @@
-
 #  Images.dat - Lift-off Dust Overlay
 Address   | 66D8C0
 ----------|-------------

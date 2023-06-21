@@ -1,4 +1,3 @@
-
 #  Player Total Gas Harvested
 Address   | 57F150
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Wirefram.grp Pointer
 Address   | 68C204
 ----------|-------------

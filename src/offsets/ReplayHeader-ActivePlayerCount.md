@@ -1,4 +1,3 @@
-
 #  Replay Header - Active Player Count
 Address   | 6D0F68
 ----------|-------------

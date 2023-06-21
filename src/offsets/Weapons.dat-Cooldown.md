@@ -1,4 +1,3 @@
-
 #  Weapons.dat - Cooldown
 Address   | 656FB8
 ----------|-------------

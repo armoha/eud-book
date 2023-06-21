@@ -1,4 +1,3 @@
-
 #  Replay Header - Fog of War (Unused)
 Address   | 6D0FBC
 ----------|-------------

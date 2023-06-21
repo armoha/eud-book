@@ -1,4 +1,3 @@
-
 #  Replay Header - Cheats
 Address   | 6D0FC2
 ----------|-------------

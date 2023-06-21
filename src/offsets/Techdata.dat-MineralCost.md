@@ -1,4 +1,3 @@
-
 #  Techdata.dat - Mineral Cost
 Address   | 656248
 ----------|-------------

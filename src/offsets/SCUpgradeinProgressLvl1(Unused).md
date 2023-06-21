@@ -1,4 +1,3 @@
-
 #  SC Upgrade in Progress Lvl 1 (Unused?)
 Address   | 58D4D8
 ----------|-------------

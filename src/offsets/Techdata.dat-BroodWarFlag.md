@@ -1,4 +1,3 @@
-
 #  Techdata.dat - Brood War Flag
 Address   | 6564B4
 ----------|-------------

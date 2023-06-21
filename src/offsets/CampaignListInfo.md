@@ -1,4 +1,3 @@
-
 #  Campaign List Info
 Address   | 4FFC20
 ----------|-------------

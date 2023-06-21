@@ -1,4 +1,3 @@
-
 #  Images Attack Overlay Array
 Address   | 51F2A8
 ----------|-------------

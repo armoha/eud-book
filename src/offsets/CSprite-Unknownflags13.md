@@ -1,4 +1,3 @@
-
 #  CSprite - Unknown flags 13
 Address   | 629DAB
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Images.dat - Remapping Table (Drawing Function)
 Address   | 669E28
 ----------|-------------

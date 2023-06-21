@@ -1,4 +1,3 @@
-
 #  Upgrades.dat - Time Factor
 Address   | 655940
 ----------|-------------

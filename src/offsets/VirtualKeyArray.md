@@ -1,4 +1,3 @@
-
 #  Virtual Key Array
 Address   | 596A18
 ----------|-------------

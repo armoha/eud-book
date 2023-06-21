@@ -1,4 +1,3 @@
-
 #  Techdata.dat - Gas Cost
 Address   | 6561F0
 ----------|-------------

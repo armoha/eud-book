@@ -1,4 +1,3 @@
-
 #  Player 8 Selection Group
 Address   | 628638
 ----------|-------------

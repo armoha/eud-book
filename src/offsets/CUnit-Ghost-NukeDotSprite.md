@@ -1,4 +1,3 @@
-
 #  CUnit - Ghost - Nuke Dot Sprite
 Address   | 59CD78
 ----------|-------------

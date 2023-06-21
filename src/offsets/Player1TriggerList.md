@@ -1,4 +1,3 @@
-
 #  Player 1 Trigger List
 Address   | 51A280
 ----------|-------------

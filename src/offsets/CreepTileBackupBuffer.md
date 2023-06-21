@@ -1,4 +1,3 @@
-
 #  Creep Tile Backup Buffer
 Address   | 6D0C68
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Replay Header - Is Broodwar
 Address   | 6D0F30
 ----------|-------------

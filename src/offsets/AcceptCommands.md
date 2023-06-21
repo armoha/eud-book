@@ -1,4 +1,3 @@
-
 #  Accept Commands
 Address   | 6556E0
 ----------|-------------

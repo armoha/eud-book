@@ -1,4 +1,3 @@
-
 #  Mission Objectives Index
 Address   | 58D6C4
 ----------|-------------

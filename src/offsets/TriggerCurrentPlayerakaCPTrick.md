@@ -1,4 +1,3 @@
-
 #  Trigger Current Player  aka CP Trick
 Address   | 6509B0
 ----------|-------------

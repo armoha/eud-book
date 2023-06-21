@@ -1,4 +1,3 @@
-
 #  Flingy.dat - Movement Control
 Address   | 6C9858
 ----------|-------------

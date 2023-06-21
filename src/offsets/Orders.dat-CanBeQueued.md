@@ -1,4 +1,3 @@
-
 #  Orders.dat - Can Be Queued
 Address   | 665700
 ----------|-------------

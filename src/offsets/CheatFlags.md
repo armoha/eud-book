@@ -1,4 +1,3 @@
-
 #  Cheat Flags
 Address   | 6D5A6C
 ----------|-------------

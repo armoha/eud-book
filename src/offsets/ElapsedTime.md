@@ -1,4 +1,3 @@
-
 #  Elapsed Time
 Address   | 58D6F8
 ----------|-------------

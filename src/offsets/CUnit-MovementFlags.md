@@ -1,4 +1,3 @@
-
 #  CUnit - Movement Flags
 Address   | 59CCC8
 ----------|-------------

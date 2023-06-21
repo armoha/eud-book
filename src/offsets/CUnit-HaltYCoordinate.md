@@ -1,4 +1,3 @@
-
 #  CUnit - Halt Y Coordinate
 Address   | 59CCD8
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Player Alliances
 Address   | 58D634
 ----------|-------------

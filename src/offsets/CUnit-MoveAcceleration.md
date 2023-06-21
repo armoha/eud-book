@@ -1,4 +1,3 @@
-
 #  CUnit - Move Acceleration
 Address   | 59CCE0
 ----------|-------------

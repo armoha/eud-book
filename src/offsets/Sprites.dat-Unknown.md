@@ -1,4 +1,3 @@
-
 #  Sprites.dat - Unknown
 Address   | 666570
 ----------|-------------

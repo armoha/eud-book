@@ -1,4 +1,3 @@
-
 #  Images.dat - Attack Overlay
 Address   | 66B1B0
 ----------|-------------

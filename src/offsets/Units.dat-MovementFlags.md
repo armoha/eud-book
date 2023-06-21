@@ -1,4 +1,3 @@
-
 #  Units.dat - Movement Flags
 Address   | 660FC8
 ----------|-------------

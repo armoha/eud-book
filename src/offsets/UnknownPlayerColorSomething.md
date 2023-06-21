@@ -1,4 +1,3 @@
-
 #  Unknown Player Color Something
 Address   | 58F442
 ----------|-------------

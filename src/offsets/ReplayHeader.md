@@ -1,4 +1,3 @@
-
 #  Replay Header
 Address   | 6D0F30
 ----------|-------------

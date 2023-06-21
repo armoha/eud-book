@@ -1,4 +1,3 @@
-
 #  Player Victory Status
 Address   | 58D700
 ----------|-------------

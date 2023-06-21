@@ -1,4 +1,3 @@
-
 #  Flingy.dat - Acceleration
 Address   | 6C9C78
 ----------|-------------

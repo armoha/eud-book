@@ -1,4 +1,3 @@
-
 #  CSprite - Selection Timer
 Address   | 629DA7
 ----------|-------------

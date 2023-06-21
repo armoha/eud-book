@@ -1,4 +1,3 @@
-
 #  Active Player Count
 Address   | 57F1E1
 ----------|-------------

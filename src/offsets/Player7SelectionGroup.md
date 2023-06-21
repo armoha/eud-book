@@ -1,4 +1,3 @@
-
 #  Player 7 Selection Group
 Address   | 628608
 ----------|-------------

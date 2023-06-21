@@ -1,4 +1,3 @@
-
 #  Storm Graphics Palette
 Address   | 1505E670
 ----------|-------------

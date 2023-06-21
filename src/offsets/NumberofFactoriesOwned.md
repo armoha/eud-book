@@ -1,4 +1,3 @@
-
 #  Number of Factories Owned
 Address   | 5820B4
 ----------|-------------

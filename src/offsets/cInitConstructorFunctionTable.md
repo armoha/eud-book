@@ -1,4 +1,3 @@
-
 #  cInit Constructor Function Table
 Address   | 50C000
 ----------|-------------

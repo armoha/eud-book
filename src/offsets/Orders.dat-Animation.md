@@ -1,4 +1,3 @@
-
 #  Orders.dat - Animation
 Address   | 664D40
 ----------|-------------

@@ -1,4 +1,3 @@
-
 #  Minimap State
 Address   | 6D5BBE
 ----------|-------------
