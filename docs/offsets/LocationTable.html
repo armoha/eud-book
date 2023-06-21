@@ -152,38 +152,78 @@
 <tr><td>SC:R</td><td>Simple Data</td></tr>
 </tbody></table>
 </div>
+<ul>
+<li>
 <p>+0x00 (EPD 3647)</p>
-<pre><code>This is the LEFT position of the location (X1).
-</code></pre>
+<p>This is the LEFT position of the location (X1).</p>
+</li>
+<li>
 <p>+0x04 (EPD 3648)</p>
-<pre><code>This is the TOP position of the location (Y1).
-</code></pre>
+<p>This is the TOP position of the location (Y1).</p>
+</li>
+<li>
 <p>+0x08 (EPD 3649)</p>
-<pre><code>This is the RIGHT position of the location (X2).
-</code></pre>
+<p>This is the RIGHT position of the location (X2).</p>
+</li>
+<li>
 <p>+0x0C (EPD 3650)</p>
-<pre><code>This is the BOTTOM position of the location (Y2).
-</code></pre>
+<p>This is the BOTTOM position of the location (Y2).</p>
+</li>
+<li>
 <p>+0x10 (EPD 3651)</p>
+<ul>
+<li>
 <p>String ID: </p>
-<pre><code>1) Look in the String Editor of the Map Editor you're using
-2) Find the name of the location within it
-3) Now count all the strings that are above it, and add 1 to the total number.
-4) The number you came to is the String ID for that location
-</code></pre>
+<ol>
+<li>
+<p>Look in the String Editor of the Map Editor you're using</p>
+</li>
+<li>
+<p>Find the name of the location within it</p>
+</li>
+<li>
+<p>Now count all the strings that are above it, and add 1 to the total number.</p>
+</li>
+<li>
+<p>The number you came to is the String ID for that location</p>
+</li>
+</ol>
+</li>
+<li>
 <p>Flags (Affect Layers):</p>
-<pre><code>Low Ground: 65536
-Med Ground: 131072
-High Ground: 262144
-Low Air: 524288
-Med Air: 1048576
-High Air: 2097152
-</code></pre>
-<p>When all flags are enabled, the value</p>
-<p>of the address is: 4128768 + String ID</p>
-<p>When all flags are disabled, the value</p>
-<p>of the address is: String ID</p>
-<p>Note: the 64th (1-based) location is &quot;Anywhere.&quot;</p>
+<ul>
+<li>
+<p>Low Ground: 65536</p>
+</li>
+<li>
+<p>Med Ground: 131072</p>
+</li>
+<li>
+<p>High Ground: 262144</p>
+</li>
+<li>
+<p>Low Air: 524288</p>
+</li>
+<li>
+<p>Med Air: 1048576</p>
+</li>
+<li>
+<p>High Air: 2097152</p>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<p>When all flags are enabled, the value of the address is: 4128768 + String ID</p>
+</li>
+<li>
+<p>When all flags are disabled, the value of the address is: String ID</p>
+</li>
+</ul>
+<p><strong><em>NOTE:</em></strong> the 64th (1-based) location is &quot;Anywhere.&quot;</p>
+</li>
+</ul>
 
                     </main>
 
